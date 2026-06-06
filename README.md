@@ -1,7 +1,7 @@
 # prova_tecnica
 
 Accedir desde GithubPages:
-https://<url-del-projecte>/index.html?text=HolaMón
+(https://gazpatxo.github.io/prova_tecnica/?text=ProvaFuncionant)
 (el parametre "text" és el que es passa per URL)
 
 He fet algunes probes en local amb aquest metode:
