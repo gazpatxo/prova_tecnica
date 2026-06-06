@@ -9,7 +9,6 @@
 #per la copilacio a webgl
 Library/
 Temp/
-Build/
 Logs/
 obj/
 
