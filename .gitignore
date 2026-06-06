@@ -5,6 +5,14 @@
 # Recommended: add any editor/OS/tool-specific ignore rules from the Global/ templates as needed.
 # See: https://github.com/github/gitignore/tree/main/Global
 #
+
+#per la copilacio a webgl
+Library/
+Temp/
+Build/
+Logs/
+obj/
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
