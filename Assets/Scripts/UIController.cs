@@ -1,10 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Runtime.InteropServices;
+using TMPro;
 
 public class UIController : MonoBehaviour
 {
-    [SerializeField] private Text displayText;
+    [SerializeField] private TMP_Text displayText;
     [SerializeField] private Button redirectButton;
 
     // Importem funció del .jslib
